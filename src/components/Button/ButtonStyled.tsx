@@ -11,7 +11,7 @@ const ButtonStyled = styled.button`
   height: 40px;
   line-height: 31px;
   letter-spacing: 0.04em;
-  position: absolute;
+  align-self: center;
   width: 323px;
 
   :disabled {
